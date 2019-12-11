@@ -1,0 +1,16 @@
+{
+  "name": "fileswalker",
+  "license": "ISC",
+  "bin": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "pkg": {
+    "assets": [
+      "views/**/*"
+    ],
+    "targets": [
+      "node8"
+    ]
+  }
+}
