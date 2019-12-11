@@ -12,5 +12,8 @@
     "targets": [
       "node8"
     ]
+  },
+  "devDependencies": {
+    "pkg": "^4.4.1"
   }
 }
